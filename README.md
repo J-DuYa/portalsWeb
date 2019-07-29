@@ -1,5 +1,6 @@
 # portalsWeb
 简单的门户网站首页
+[访问地址](https://dyjunzou.github.io/portalsWeb/)
 
  <p align="center">
   <img width="900" src="https://dyJunZou.github.io/portalsWeb/images/screem.png">
